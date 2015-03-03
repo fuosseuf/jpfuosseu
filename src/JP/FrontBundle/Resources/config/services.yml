@@ -1,0 +1,7 @@
+parameters:
+#    jp_front.example.class: JP\FrontBundle\Example
+
+services:
+#    jp_front.example:
+#        class: %jp_front.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

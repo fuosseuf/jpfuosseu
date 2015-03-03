@@ -1,0 +1,17 @@
+jp_front_homepage:
+    pattern:  /
+    defaults: { _controller: JPFrontBundle:Front:index }
+
+jp_front_apropos:
+    pattern:  /apropos
+    defaults: { _controller: JPFrontBundle:Front:apropos }
+
+jp_front_services:
+    pattern:  /services
+    defaults: { _controller: JPFrontBundle:Front:services }
+
+
+jp_front_contact:
+    pattern:  /contact
+    defaults: { _controller: JPFrontBundle:Front:contact }
+

@@ -1,0 +1,4 @@
+jp_front:
+    resource: "@JPFrontBundle/Resources/config/routing.yml"
+    prefix:   /
+
